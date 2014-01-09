@@ -1,10 +1,10 @@
-Master Branch : [![Build Status](https://travis-ci.org/chenkan/TestNgShow.png?branch=master)](https://travis-ci.org/chenkan/TestNgShow)
+Master Branch : [![Build Status](https://travis-ci.org/bingoHuang/TestNgShow.png?branch=master)](https://travis-ci.org/bingoHuang/TestNgShow)
 
 #### 概述
 
 本项目目标是以实例展示`TestNG`的各项功能
 
-Issue Link - https://github.com/chenkan/TestNgShow/issues
+Issue Link - https://github.com/bingoHuang/TestNgShow/issues
 
 #### 版本
 
